@@ -12,3 +12,7 @@ This article provides a detailed comparison between **Django** (a Python-based w
 - **Development Speed**: Django’s built-in admin panel and rapid development capabilities make it an excellent choice for startups and quick prototypes.
 - **Scalability & Performance**: Spring Boot provides more fine-grained control over backend logic, making it suitable for large-scale enterprise applications.
 - **Ecosystem & Community Support**: Both frameworks have strong communities, but Java’s enterprise dominance gives Spring Boot an edge for enterprise applications.
+
+
+##Maya Felix
+Interesting article! I didn't know much about this stuff before.
